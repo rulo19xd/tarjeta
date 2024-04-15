@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: pink;
+}
+
+body img {
+    width: 365px;
+    height: 365px;
+}
